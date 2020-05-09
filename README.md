@@ -1,1 +1,1 @@
-# themo-imager-software
+# themal-imager-software
